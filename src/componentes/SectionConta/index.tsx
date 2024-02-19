@@ -40,6 +40,7 @@ const SectionConta = () => {
           
         }
       });
+      
 
       timeline.to(circle, {
         left: -260,
