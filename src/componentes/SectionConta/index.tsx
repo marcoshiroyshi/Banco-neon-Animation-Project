@@ -34,7 +34,6 @@ const SectionConta = () => {
       const timeline = gsap.timeline({
         scrollTrigger: {
           trigger: ".container",
-          markers: true,
           start:'top 600px',
           end: 'bottom 900px'
           
