@@ -35,8 +35,8 @@ const SectionConta = () => {
         scrollTrigger: {
           trigger: ".container",
           start:'top 600px',
-          end: 'bottom 900px'
-          
+          end: 'bottom 500px',
+          scrub: true
         }
       });
       
